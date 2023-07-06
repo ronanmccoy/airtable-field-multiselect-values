@@ -1,6 +1,6 @@
-# Languages From Meta Data
+# Field Options From Meta Data
 
-Pull a unique list of languages from the array of options for the multiselect fields used for language proficiency. Store the resulting list to a .txt file.
+Pull a unique list of options from the array of options for a multiselect  field or fields. Store the resulting list to a .txt file.
 
 Reference: https://airtable.com/api/meta
 
@@ -8,3 +8,7 @@ Reference: https://airtable.com/api/meta
 
 Replace API key with PAT.
 
+## Install
+- clone repo
+- run `npm i`
+- run `node index`
