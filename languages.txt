@@ -1,0 +1,59 @@
+
+Afrikaans
+American Sign Language
+Amharic
+Arabic
+Bengali
+Borana
+Cantonese
+Catalan
+Czech
+Danish
+Dutch
+Egyptian Arabic
+English
+Farsi
+Finnish
+French
+German
+Greek
+Gujarati
+Hausa
+Hawaiian
+Hawaiian Pidgin
+Hindi
+Hungarian
+Italian
+Japanese
+Khmer Cambodian
+Kiswahili
+Korean
+Latin
+Mandarin
+Marathi
+Norwegian
+Persian
+Pidgin
+Polish
+Portuguese
+Russian
+Sami
+Serbian
+Shona
+Sierra Leonean Krio
+Spanish
+Swahili
+Swedish
+Tagalog
+Taiwanese
+Tamil
+Telugu
+Teochew
+Thai
+Turkish
+Ukrainian
+Urdu
+Vietnamese
+Wu
+Yoruba
+Zulu
