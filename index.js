@@ -36,7 +36,7 @@ const main = async () => {
           for(const option of options) {
             let optionValue = option.name;
 
-            if(languages.indexOf(optionValue) === -1) {
+            if(optionValue !== '' && languages.indexOf(optionValue) === -1) {
               languages.push(optionValue);
             }
           }
